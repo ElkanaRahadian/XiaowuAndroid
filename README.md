@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="/XiaoWU.png">
+  <img height="500" src="/XiaoWU.PNG">
 </p>
 
 # XiaoWU Android App
