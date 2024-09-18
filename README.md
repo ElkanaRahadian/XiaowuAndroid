@@ -2,7 +2,7 @@
   <img height="500" src="/XiaoWU.PNG">
 </p>
 
-# XiaoWU Android App
+# XiaoWU Android Ap
 Your Ultimate Phone Shopping Companion!
 
 # Overview
